@@ -1,4 +1,4 @@
-# SHT31 RHT Beacon
+# SGP Air Quality BLE Beacon
 
 This repository contains firmware for a Bluetooth Low Energy (BLE) environmental beacon based on the 
 Silicon Labs Bluetooth stack and an SGP40 Air Quality sensor. The device periodically reads 
